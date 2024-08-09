@@ -1,2 +1,2 @@
 # NewRepository
-Este es un repositorio de prueba
+Prueba Standar del Repository
